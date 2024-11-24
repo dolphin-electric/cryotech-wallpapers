@@ -1,6 +1,8 @@
 # Spectra Substrate
 
-_A repository of digital resonance._
+**A repository of digital resonance.**
+
+![Preview](https://github.com/dolphin-electric/cryotech-wallpapers/blob/main/Wallpapers/2880x1800-cryotech-1.png?raw=true)
 
 Encoded in the resolution **2880x1800** at **300ppi**, this archive captures the pulse of retro-futuristic dreams and cybernetic decay. Each fragment is an invitation to the neon abyss—a glimpse into the oscillating frequencies of a parallel existence.
 
@@ -55,3 +57,4 @@ Viewing these substrates may induce:
 
 ## 🌀 Feedback Loop
 Contributions to the matrix are welcome. Expand the spectrum by forking the repo and submitting pull requests.
+
