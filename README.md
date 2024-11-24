@@ -1,10 +1,6 @@
-                         __            __  
-  ____________  ______  / /____  _____/ /_ 
- / ___/ ___/ / / / __ \/ __/ _ \/ ___/ __ \
-/ /__/ /  / /_/ / /_/ / /_/  __/ /__/ / / /
-\___/_/   \__, /\____/\__/\___/\___/_/ /_/ 
--------- /____/  --------------------------
+# Spectra Substrate
 
+_A repository of digital resonance._
 
 Encoded in the resolution **2880x1800** at **300ppi**, this archive captures the pulse of retro-futuristic dreams and cybernetic decay. Each fragment is an invitation to the neon abyss—a glimpse into the oscillating frequencies of a parallel existence.
 
@@ -35,8 +31,17 @@ Encoded in the resolution **2880x1800** at **300ppi**, this archive captures the
 
 ---
 
-## ⚠️ Usage Policy
-This repository exists as an artifact of the cybervoid. Personal use is unrestricted. Redistribution in altered forms may require additional encoding permissions.
+## ⚖️ Creative Commons Legal Code
+This repository is licensed under the **Creative Commons Attribution 4.0 International (CC BY 4.0)**.  
+You are free to:
+- **Share**: Copy and redistribute the material in any medium or format.
+- **Adapt**: Remix, transform, and build upon the material for any purpose, even commercially.
+
+Under the following terms:
+- **Attribution**: You must give appropriate credit, provide a link to the license, and indicate if changes were made. You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use.
+- **No Additional Restrictions**: You may not apply legal terms or technological measures that legally restrict others from doing anything the license permits.
+
+For more details, visit [https://creativecommons.org/licenses/by/4.0/](https://creativecommons.org/licenses/by/4.0/).
 
 ---
 
@@ -50,4 +55,3 @@ Viewing these substrates may induce:
 
 ## 🌀 Feedback Loop
 Contributions to the matrix are welcome. Expand the spectrum by forking the repo and submitting pull requests.
-
